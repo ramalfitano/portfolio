@@ -2,4 +2,4 @@
 <h1>About Me</h1>
 
 <p>Hi, I'm Robyn!</p>
-<a href="https://robynamalfitano.github.io/">View My Portfolio</a>
+<a href="https://ramalfitano.github.io/portfolio/">View My Portfolio</a>
